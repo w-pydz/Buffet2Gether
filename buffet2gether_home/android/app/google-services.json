@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "995699540738",
+    "firebase_url": "https://buffet2gether.firebaseio.com",
+    "project_id": "buffet2gether",
+    "storage_bucket": "buffet2gether.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995699540738:android:65317164eb3b6783a3b81b",
+        "android_client_info": {
+          "package_name": "com.buffet2gether.buffet2gether_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995699540738-6k7nqeb2rkjfm7caoi2dc8jss52r7t9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJJ4Y7wcggQGtouPXn0KAbj5_t-gKRgAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995699540738-6k7nqeb2rkjfm7caoi2dc8jss52r7t9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

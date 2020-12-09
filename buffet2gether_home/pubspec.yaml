@@ -1,0 +1,39 @@
+name: buffet2gether_home
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dio: 1.0.0
+  flappy_search_bar: 1.4.1
+  font_awesome_flutter: ^8.8.1
+  cupertino_icons: ^0.1.2
+  image_picker: ^0.6.5+1
+  flutter_swiper: 1.1.6
+  firebase_auth: ^0.14.0+5
+  cloud_firestore: ^0.12.9+4
+  firebase_storage: ^3.1.5
+  flutter_datetime_picker: ^1.3.5
+  intl: ^0.16.1
+  flutter_spinkit: "^4.1.2"
+  provider: ^4.0.5
+  firebase_messaging: ^6.0.13
+  cached_network_image: ^2.2.0+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  fonts:
+    - family: Opun
+      fonts:
+        - asset: fonts/Opun-Regular.ttf
+  uses-material-design: true
+  assets:
+    - assets/images/
